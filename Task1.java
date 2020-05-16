@@ -59,10 +59,7 @@ System.out.print("\t"+"    "+ m.Department[i]+"      ");
 int D=m.design(a);
 int salary=sal+D; 
 System.out.print("\t"+ salary);
-}}for(int i = 0; i<7; i++){
-
-  if(!(EmpId==m.EmpNo[i])) {System.out.print("There is no employee with empid:"+EmpId);} break;}
-
+}}
 
  //if(EmpId!=m.EmpNo[i])
 //{System.out.print("There is no employee with empid:"+EmpId);}
